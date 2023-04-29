@@ -56,28 +56,6 @@
 	background-color: transparent;
   }
   
-  /* FRIENDS SIDEBAR */
-  .sidebar-1tnWFu {
-	background: transparent;
-  }
-  
-  .privateChannels-oVe7HL {
-	background-color: transparent;
-  }
-  
-  .scroller-WSmht3 {
-	background-color: transparent;
-  }
-  
-  .searchBar-3TnChZ .searchBarComponent-3N7dCG {
-	background-color: transparent;
-  }
-  
-  /* CHAT SIDER */
-  .container-1NXEtd {
-	background-color: transparent;
-  }
-  
   /* CHAT BODY */
   .chat-2ZfjoI {
 	background: transparent;
@@ -125,24 +103,6 @@
   
   .contentRegionScroller-2_GT_N {
 	background-color: transparent;
-  }
-  
-  /* SETTINGS - PROFILE */
-  .background-3d_SjE {
-	background-color: transparent;
-  }
-  
-  .fieldList-in8WkP {
-	background-color: transparent;
-  }
-  
-  /* ANNOYANCES */
-  .theme-dark .children-3xh0VB:after {
-	background: transparent;
-  }
-  
-  .tree-3tCaw8 {
-	outline: none;
   }
   
   /* For the background of the content, using darker color from message transparency variable */
