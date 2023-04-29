@@ -56,6 +56,50 @@
 	background-color: transparent;
   }
   
+  /* USER INFO */
+  .panels-3wFtMD {
+	background-color: transparent;
+  }
+  
+  .theme-dark .container-2cd8Mz {
+	background-color: transparent;
+  }
+  
+  .container-ZMc96U.themed-Hp1KC_ {
+	background: transparent;
+  }
+  
+  .nowPlayingColumn-1eCBCN {
+	background: transparent;
+  }
+  
+  .headerNormal-1l1Znk {
+	background-color: var(--small-user-popout-background-transparency);
+  }
+  
+  .headerTop-2y3V6H {
+	background-color: transparent;
+	border-bottom: none;
+  }
+  
+  .avatar-22FtUu {
+	border: none;
+	background-color: transparent;
+  }
+  
+  .profileBanner-1owKI5 {
+	background-color: transparent !important;
+  }
+  
+  .input-2z42oC {
+	background-color: transparent;
+  }
+  
+  .avatarHint-1E3LMl {
+	top: 0 !important;
+	left: 0 !important;
+  }
+
   /* CHAT BODY */
   .chat-2ZfjoI {
 	background: transparent;
@@ -105,6 +149,31 @@
 	background-color: transparent;
   }
   
+  /* SETTINGS - PROFILE */
+  .background-3d_SjE {
+	background-color: transparent;
+  }
+  
+  .fieldList-in8WkP {
+	background-color: transparent;
+  }
+  
+  
+  /* Background left */
+  .users-2JoyGL {
+	background-color: var(--channel-limit-background-left);
+  }
+  
+  /* Background right */
+  .total-1c5KCN:after {
+	border-right-color: var(--channel-limit-background-left);
+  }
+  
+  .total-1c5KCN {
+	background-color: var(--channel-limit-background-right);
+  }
+  
+  
   /* For the background of the content, using darker color from message transparency variable */
   .overlayBackground-arbZMT {
 	background-color: var(--message-box-transparency);
@@ -123,5 +192,215 @@
   .overlayBackground-H1K9ZY,
   .profileBadges-1GBCVy {
 	background-color: rgba(0, 0, 0, 0.4);
+  }
+  
+  /* Upload Dialog */
+  .theme-dark .uploadModal-2ie9O_ {
+	background-color: rgba(20, 20, 20, 0.6);
+	box-shadow: none;
+  }
+  
+  .theme-dark .footer-VCsJQY {
+	background-color: rgba(20, 20, 20, 0.6);
+	box-shadow: none;
+  }
+  
+  /* Role Listing */
+  .scroller-3_YDR2 {
+	background-color: transparent;
+  }
+  
+  /* Moderation Listings */
+  .item-2idW98 {
+	background-color: transparent;
+  }
+  
+  .item-2idW98[aria-checked="true"] {
+	background-color: rgba(200, 200, 200, 0.1);
+  }
+  
+
+  .tutorialContainer-1pL9QS
+	.wrapper-2PSQCG
+	.childWrapper-1j_1ub
+	.homeIcon-FuNwkv {
+	visibility: hidden;
+  }
+  
+  .tutorialContainer-1pL9QS
+	.listItem-GuPuDH
+	.listItemWrapper-KhRmzM
+	.wrapper-3kah-n
+	.childWrapper-1j_1ub {
+	background-color: transparent;
+  }
+  
+  .homeIcon-tEMBK1 {
+	visibility: hidden;
+  }
+  
+  .tutorialContainer-1pL9QS
+	.listItem-3SmSlK
+	.listItemWrapper-3d87LP
+	.wrapper-3kah-n
+	svg {
+	opacity: 0;
+  }
+  
+  .tutorialContainer-1pL9QS {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+  }
+  
+  .tutorialContainer-1pL9QS .listItem-GuPuDH {
+	right: 5px;
+  }
+  
+  .listItem-3SmSlK {
+	width: initial;
+  }
+  
+  .expandedFolderBackground-1kSAf6 {
+	left: 0px;
+  }
+  
+  .folder-241Joy,
+  .folderIconWrapper-1oRIZr {
+	border-radius: 100%;
+  }
+  
+  .container-2o3qEW {
+	background: transparent;
+  }
+  
+  .guildSeparator-a4uisj {
+	background-color: transparent;
+  }
+  
+  .wrapper-3HVHpV {
+	background-color: transparent;
+  }
+  
+  .avatar-3QF_VA {
+	border: 8px solid transparent;
+	background-color: transparent;
+  }
+  
+  .container-3XgAHv {
+	background: transparent;
+  }
+  
+  .chatTarget-3H6mpC.container-3XgAHv.floating-3M3WeH {
+	background-color: var(--theme-transparency);
+  }
+  
+  .connectedAccountContainer-SlCC-S {
+	background-color: transparent;
+  }
+  
+  .bannerSVGWrapper-qc0szY mask:first-child {
+	display: none;
+  }
+  
+  .theme-dark .background-fkKrXt {
+	background-color: transparent;
+  }
+  
+  .card-3x20HF {
+	background-color: rgba(255, 255, 255, 0.1);
+	backdrop-filter: blur(5px);
+  }
+  
+  .interactiveCard-2iMtdk {
+	border: 0;
+  }
+  
+  .container-2Hi7Km {
+	background-color: rgba(255, 255, 255, 0.1);
+	backdrop-filter: blur(5px);
+  }
+  
+  .icon-2IDTxf {
+	background-color: transparent;
+  }
+  
+  .icon-2IDTxf {
+	border: 0;
+  }
+  
+  .container-xwOzwi {
+	background-color: rgba(255, 255, 255, 0.1);
+	backdrop-filter: blur(5px);
+  }
+  
+  .emptyStateContainer-xWOMPJ {
+	background-color: transparent;
+  }
+  
+  .theme-dark .container-3wLKDe {
+	background-color: transparent;
+  }
+  
+  .container-3YcgdM {
+	background-color: transparent;
+	border: 0;
+  }
+  
+  .divider-AZrXIA {
+	background-color: transparent;
+  }
+  
+  .container-2_J666 {
+	background-color: transparent;
+  }
+  
+  .stepContainer-SaPPyG {
+	background-color: transparent;
+  }
+  
+  .mainCard-3KBsBI {
+	background-color: rgba(255, 255, 255, 0.08);
+	backdrop-filter: blur(5px);
+  }
+  
+  .sidebarCard-1Gn1ch {
+	background-color: rgba(255, 255, 255, 0.08);
+	backdrop-filter: blur(5px);
+	border: 0;
+  }
+  
+  .member-48YF_l,
+  .members-3WRCEx {
+	background-color: transparent;
+  }
+  
+  .scroller-3X7KbA {
+	background: none !important;
+  }
+  
+  .theme-dark .container-1NXEtd {
+	background: none !important;
+  }
+  
+  .container-1zzFcN {
+	background: none !important;
+  }
+  
+  .container-YkUktl {
+	background: none !important;
+  }
+  
+  .chatContent-3KubbW {
+	background: none !important;
+  }
+  
+  .scroller-WSmht3 {
+	background: none !important;
+  }
+  
+  .theme-dark .panel-2ZFCRb {
+	background: none !important;
+	background-color: transparent;
   }
   
