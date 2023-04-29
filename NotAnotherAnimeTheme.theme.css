@@ -27,16 +27,5 @@
   */
   --theme-transparency: rgba(0, 0, 0, 0.8);
 
-  */
-  --small-user-popout-background-image: var(--theme-background-image);
-  --small-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
-  --small-user-popout-background-image-position: center;
-
-  /*
-    Big User Popout
-  */
-  --big-user-popout-background-image: var(--theme-background-image);
-  --big-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
-  --big-user-popout-background-image-position: center;
 
  
